@@ -1,7 +1,9 @@
 # TF-FDS
 Trabalho Final de Fundamentos de Desenvolvimento de Software
+Prof. Bernardo Copstein
+Turma 168
 
-Componentes do grupo: Bruno Wolff Abbad e Lucas Sartori Piatnicki
+Componentes do grupo 1: Bruno Wolff Abbad e Lucas Sartori Piatnicki
 
 Objetivo
 
