@@ -3,7 +3,7 @@ Trabalho Final de Fundamentos de Desenvolvimento de Software
 Prof. Bernardo Copstein
 Turma 168
 
-Componentes do grupo 1: Bruno Wolff Abbad e Lucas Sartori Piatnicki
+Grupo X: Lucas Sartori Piatnicki
 
 Objetivo
 
