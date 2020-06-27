@@ -17,8 +17,16 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
 
-
-
-
+.containerBox {
+    position: relative;
+    top: 870px;
+    
+}
+.text-box {
+    position: absolute;    
+    height: 100%;
+    text-align: center;    
+    width: 100%;
 }
