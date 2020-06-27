@@ -1,5 +1,7 @@
 package Grupo2.Entidades;
 
+
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -44,6 +46,10 @@ public class Receita {
 	public String toString() {
 		return "Receita [id=" + id + ", nome=" + nome + ", getId()=" + getId() + ", getNome()=" + getNome() + "]";
 	}
+
+	public static void add(...) {...}
+
+	public static List<Book> retrieveAll(...) {...}
 
 	
 }
